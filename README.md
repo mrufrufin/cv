@@ -1,5 +1,5 @@
 # DEREK KWAN
-electronic musician / percussionist / digital artist\
+computers / music / art\
 www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## EDUCATION
