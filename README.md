@@ -12,8 +12,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Bachelor of Science: General Mathematics
 
 ## TECHNICAL PROFICIENCIES
-- Interactive Media Programming Languages
-  - Pure Data, SuperCollider, Max/MSP, Processing, p5.js, Three.js, OpenFrameworks, Tone.js, Sonic Pi, TidalCycles
+- Interactive Media Programming
+  - Pure Data, SuperCollider, Max/MSP, Processing, p5.js, Three.js, OpenFrameworks, TidalCycles
 - Digital Audio Workstations
   - Logic, Ableton Live, Ardour 
 - Basic Audio Programming in C
