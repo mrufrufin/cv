@@ -16,10 +16,12 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Pure Data, SuperCollider, Max/MSP, Processing, p5.js, Three.js, OpenFrameworks, TidalCycles
 - Digital Audio Workstations
   - Logic, Ableton Live, Ardour 
-- Basic Audio Programming in C
+- Audio Programming in C
   - Pure Data externals
 - Frontend and Backend Web Development
   - HTML, CSS, JavaScript, Node.js/Express, ClojureScript, React, PHP
+- Other Programming
+  - Python, Ruby, Clojure, C, (basic) Haskell
 - Basic 3D Modeling
   - Blender
 - Graphic Design
