@@ -4,12 +4,11 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## EDUCATION
 - 2015: State University of New York, Stony Brook (Stony Brook, NY)
-  - Doctor of Musical Arts: Music (Percussion Performance)
+  - Doctor of Musical Arts: Music (Percussion)
 - 2010: Queens College, City University of New York (Flushing, NY)
-  - Master of Arts: Music (Percussion Performance)
+  - Master of Arts: Music (Percussion)
 - 2008: University of California, Davis (Davis, CA)
-  - Bachelor of Arts: Music Performance (Percussion)
-  - Bachelor of Science: General Mathematics
+  - Bachelor of Arts and Science: Music (Percussion) and General Mathematics
 
 ## TECHNICAL PROFICIENCIES
 - Interactive Media Programming
