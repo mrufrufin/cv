@@ -49,6 +49,7 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Month-long curation of art by Derek Kwan, Tavarus Blackmon, and Boris Allenou
 
 ## FELLOWSHIPS / RESIDENCIES
+- 2020: Art-a-Hack Dancedemic (New York, NY / remote)
 - 2020: Bombay Radical Artificial Humanist Media Arts Nexus (Bombay Beach, CA)
 - 2010:  Bang on a Can Summer Music Institute  (North Adams, MA)
   - Performance Fellow
@@ -63,8 +64,11 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Teaching the undergraduate course Music 107A: "Introduction to Electronic Music I" featuring a general overview of electronic music history (musique conrcète, elektronische musik, soundscape composition, etc.) and studio basics (sound editors, DAWs, microphones, mixers, speakers, etc.) with a focus on fixed-media composition
 
 ## PROFESSIONAL EXPERIENCE
-- April 2020 - current: Art Music Lit Space (https://art-music-lit.space/)
-  - music curator for the virtual exhibition space
+- April 2020 - current: Art Music Lit Space ( https://art-music-lit.space )
+  - music/digital art curator for the virtual exhibition space
+  - write content (statements on curated art, exhibition statements, etc.) for the exhibition website
+  - help organize the virtual receptions and other events
+  - manage the Twitter account
 - September 2013 - August 2015: Stony Brook University Teaching Learning Lab (Stony Brook NY)
   - Lab Assistant/Programmer
   - Worked with faculty on interactive digital media projects (Max/MSP/Jitter, Pure Data/GEM, Processing, SuperCollider, etc.) investigating novel methods of human-computer interaction (webcam, Kinect, NeuroSky MindWave, etc.)
@@ -85,6 +89,8 @@ Full-stack web application development (PHP, AngularJS, jQuery, etc.) for class-
   - Taught private lessons in percussion to students ranging from high school students to adults
 
 ## SELECTED PERFORMANCES
+- July 18, 2020: Network Music Festival
+    - Caider livestreaming at Toplap Berlin VR Algorave Mozilla Hubs venue
 - May 31, 2020: Neuvoids Algovoids
   - Caider (livecoding TidalCycles with Cai Rhuturaje visuals) Twitch livestream set
 - May 2, 2020: VR Algorave Set on the Cyber Yacht
