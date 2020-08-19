@@ -43,6 +43,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Presentation of "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" with Alexandre Torres Porres and Matt Barber
 
 ## EXHIBITIONS
+- 2020: Small File Media Festival (Vancouver, BC)
+    - a festival dedicated to small files featuring my video bombaybeach
 - 2019: Music Makers Art Exhibition at Hacker Lab (Sacramento, CA)
   - Featuring art made by musicians featuring my computer-generated visual art
 - 2019: The Brickhouse Art Gallery (Sacramento, CA)
@@ -50,6 +52,7 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## FELLOWSHIPS / RESIDENCIES
 - 2020: Art-a-Hack Dancedemic (New York, NY / remote)
+    - remote hackathon in conjunction with Battery Dance Festival
 - 2020: Bombay Radical Artificial Humanist Media Arts Nexus (Bombay Beach, CA)
 - 2010:  Bang on a Can Summer Music Institute  (North Adams, MA)
   - Performance Fellow
