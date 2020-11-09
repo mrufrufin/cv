@@ -3,11 +3,13 @@ computers / music / art\
 www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## EDUCATION
-- 2015: State University of New York, Stony Brook (Stony Brook, NY)
+- 2021 - ?: Georgia Institute of Technology (Atlanta, GA)
+    - Master of Science: Computer Science
+- 2011-2015: State University of New York, Stony Brook (Stony Brook, NY)
   - Doctor of Musical Arts: Music (Percussion)
-- 2010: Queens College, City University of New York (Flushing, NY)
+- 2008-2010: Queens College, City University of New York (Flushing, NY)
   - Master of Arts: Music (Percussion)
-- 2008: University of California, Davis (Davis, CA)
+- 2004-2008: University of California, Davis (Davis, CA)
   - Bachelor of Arts and Science: Music (Percussion) and General Mathematics
 
 ## TECHNICAL PROFICIENCIES
@@ -35,6 +37,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Linux
 
 ## PRESENTATIONS / WORKSHOPS
+- October 20, 2020: CSMC + MuMe - 2020 Joint Conference on AI Music Creativity
+  - YouTube stream of paper presentation of "Karaoke of Dreams: A multi-modal neural-network generated music experience" with Sofy Yuditskaya and Sophia Sun
 - March 2, 2020: TidalCycles Live Coding Workshop (Bombay Beach, CA)
   - Workshop at brahman.ai on the TidalCycles Live Coding Environment 
 - October 27, 2018: Bates Digital Music Symposium (Lewiston, ME)
@@ -92,12 +96,10 @@ Full-stack web application development (PHP, AngularJS, jQuery, etc.) for class-
   - Taught private lessons in percussion to students ranging from high school students to adults
 
 ## SELECTED PERFORMANCES
+- October 7, 2020: NODE20 Second Nature
+    - Caider livestream
 - July 18, 2020: Network Music Festival
-    - Caider livestreaming at Toplap Berlin VR Algorave Mozilla Hubs venue
-- May 31, 2020: Neuvoids Algovoids
-  - Caider (livecoding TidalCycles with Cai Rhuturaje visuals) Twitch livestream set
-- May 2, 2020: VR Algorave Set on the Cyber Yacht
-  - Caider livestream on Mozilla Hubs
+    - Caider (music livecoding with visualist Cai Rhuturaje) livestreaming at Toplap Berlin VR Algorave Mozilla Hubs venue
 - May 16-20 2016: Fifth International Pure Data Convention (PdCon16) (New York, NY)
   - Derek Kwan - shoebox memories (Pd version), Hans Tammen - Dark Circuits Pd Orchestra
 - June 13, 2016: New York City Electroacoustic Music Festival (New York, NY)
@@ -113,8 +115,6 @@ Full-stack web application development (PHP, AngularJS, jQuery, etc.) for class-
   - Mei Fang Lin - Flux for marimba and electronic sound
 - June 19, 2011: Bang on a Can Marathon (New York, NY)
   - Anthony Gatto - Portrait of Eva Hesse for percussion ensemble
-- February 27, 2011: Elevator Rose at Death By Audio
-  - Kwan - silky anteaters, Vasudevan Panicker - i heart pulse v2.0, Andriessen - Worker’s Union
 - October 31, 2010: Tibetan Singing Bowl Ensemble, Metropolitan Museum of Art (New York, NY)
   - Raphael Mostel - Music for the October Moon
 - April 2, 2009: New York City Electroacoustic Music Festival (New York, NY)
