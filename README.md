@@ -37,6 +37,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Linux
 
 ## PRESENTATIONS / WORKSHOPS
+- March 14, 2021: McGill Music Graduate Symposium
+  - recorded virtual paper presentation of "Karaoke of Dreams: A multi-modal neural-network generated music experience" with Sofy Yuditskaya and Sophia Sun
 - October 20, 2020: CSMC + MuMe - 2020 Joint Conference on AI Music Creativity
   - YouTube stream of paper presentation of "Karaoke of Dreams: A multi-modal neural-network generated music experience" with Sofy Yuditskaya and Sophia Sun
 - March 2, 2020: TidalCycles Live Coding Workshop (Bombay Beach, CA)
