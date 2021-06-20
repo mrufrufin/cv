@@ -37,6 +37,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Linux
 
 ## PRESENTATIONS / WORKSHOPS
+- June 15-16, 2021: New Interfaces for Musical Expression 2021 (NYU Shanghai)
+  - question and answer session with Anne Sophie Andersen on our 3D visualization work of Grisey's Talea using web technology
 - March 14, 2021: McGill Music Graduate Symposium
   - recorded virtual paper presentation of "Karaoke of Dreams: A multi-modal neural-network generated music experience" with Sofy Yuditskaya and Sophia Sun
 - October 20, 2020: CSMC + MuMe - 2020 Joint Conference on AI Music Creativity
@@ -66,6 +68,11 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Performance Fellow
 - 2007: International Marimba Festival (Salzburg, Austria)
   - Performance Fellow
+
+## WRITING
+- 2021: "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map" - with Anne Sophie Andersen
+- 2020: "Karaoke of Dreams: A multi-modal neural-network generated music experience" - with Sofy Yuditskaya and Sophia Sun
+- 2016: "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" - with Alexandre Torres Porres and Matt Barber
 
 ## TEACHING EXPERIENCE
 - September 2017- December 2017: University of California, Davis Department of Music (Davis, CA)
