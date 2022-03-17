@@ -4,7 +4,7 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## EDUCATION
 - 2021 - ?: Georgia Institute of Technology (Atlanta, GA)
-    - Master of Science: Computer Science
+    - Master of Science: Computer Science (specialization: Interactive Intelligence)
 - 2011-2015: State University of New York, Stony Brook (Stony Brook, NY)
   - Doctor of Musical Arts: Music (Percussion)
 - 2008-2010: Queens College, City University of New York (Flushing, NY)
@@ -59,6 +59,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Month-long curation of art by Derek Kwan, Tavarus Blackmon, and Boris Allenou
 
 ## FELLOWSHIPS / RESIDENCIES
+- 2022: Virginia Center for the Creative Arts (Amherst, VA)
+    - composer residency
 - 2020: Art-a-Hack Dancedemic (New York, NY / remote)
     - remote hackathon in conjunction with Battery Dance Festival
 - 2020: Bombay Radical Artificial Humanist Media Arts Nexus (Bombay Beach, CA)
