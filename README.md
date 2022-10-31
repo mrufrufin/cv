@@ -12,30 +12,6 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
 - 2004-2008: University of California, Davis (Davis, CA)
   - Bachelor of Arts and Science: Music (Percussion) and General Mathematics
 
-## TECHNICAL PROFICIENCIES
-- Interactive Media Programming
-  - Pure Data, SuperCollider, Max/MSP, Processing, p5.js, Three.js, OpenFrameworks, TidalCycles
-- Digital Audio Workstations
-  - Logic, Ableton Live, Ardour 
-- Audio Programming in C
-  - Pure Data externals
-- Frontend and Backend Web Development
-  - HTML, CSS, JavaScript, Node.js/Express, ClojureScript, React, PHP
-- Other Programming
-  - Python, Ruby, Clojure, C, (basic) Haskell
-- Basic 3D Modeling
-  - Blender
-- Graphic Design
-  - GIMP
-- Basic Physical Computing
-  - Arduino, Raspberry Pi
-- Audio Engineering
-  - Studio and Live Recording, Live Sound Engineering
-- Music Engraving Software
-  - LilyPond 
-- Other
-  - Linux
-
 ## PRESENTATIONS / WORKSHOPS
 - June 15-16, 2021: New Interfaces for Musical Expression 2021 (NYU Shanghai)
   - question and answer session with Anne Sophie Andersen on our 3D visualization work of Grisey's Talea using web technology
@@ -72,9 +48,10 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Performance Fellow
 
 ## WRITING
-- 2021: "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map" - with Anne Sophie Andersen
-- 2020: "Karaoke of Dreams: A multi-modal neural-network generated music experience" - with Sofy Yuditskaya and Sophia Sun
-- 2016: "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" - with Alexandre Torres Porres and Matt Barber
+- 2021: "Almost 20 years of Cycle: past, present, and future" - with Alexandre Torres Porres and Matt Barber (Revista Vortex 9 (2))
+- 2021: "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map" - with Anne Sophie Andersen (NIME)
+- 2020: "Karaoke of Dreams: A multi-modal neural-network generated music experience" - with Sofy Yuditskaya and Sophia Sun (CSMC + MuMe)
+- 2016: "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" - with Alexandre Torres Porres and Matt Barber (PdCon)
 
 ## TEACHING EXPERIENCE
 - September 2017- December 2017: University of California, Davis Department of Music (Davis, CA)
