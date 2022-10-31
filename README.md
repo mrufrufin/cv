@@ -48,7 +48,7 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Performance Fellow
 
 ## WRITING
-- 2021: "Almost 20 years of Cycle: past, present, and future" - with Alexandre Torres Porres and Matt Barber (Revista Vortex 9 (2))
+- 2021: "Almost 20 years of Cyclone: past, present, and future" - with Alexandre Torres Porres and Matt Barber (Revista Vortex 9 (2))
 - 2021: "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map" - with Anne Sophie Andersen (NIME)
 - 2020: "Karaoke of Dreams: A multi-modal neural-network generated music experience" - with Sofy Yuditskaya and Sophia Sun (CSMC + MuMe)
 - 2016: "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" - with Alexandre Torres Porres and Matt Barber (PdCon)
