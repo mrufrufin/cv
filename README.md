@@ -1,15 +1,16 @@
 # DEREK KWAN
-computers / music / art\
+Computers / Music / Art\
 www.derekxkwan.com / derek.x.kwan@gmail.com
 
 ## EDUCATION
-- 2021 - ?: Georgia Institute of Technology (Atlanta, GA)
+- 2021 - 2023 (anticipated): Georgia Institute of Technology (Atlanta, GA)
     - Master of Science: Computer Science (specialization: Interactive Intelligence)
-- 2011-2015: State University of New York, Stony Brook (Stony Brook, NY)
+    - Classes Taken: Human-Computer Interaction, Robotics: AI Techniques, Artificial Intelligence, Computer Vision, Computer Networks, Knowledge-Based AI, Educational Technology, Machine Learning (in progress), Software Development Process (in progress)
+- 2011 - 2015: State University of New York, Stony Brook (Stony Brook, NY)
   - Doctor of Musical Arts: Music (Percussion)
-- 2008-2010: Queens College, City University of New York (Flushing, NY)
+- 2008 - 2010: Queens College, City University of New York (Flushing, NY)
   - Master of Arts: Music (Percussion)
-- 2004-2008: University of California, Davis (Davis, CA)
+- 2004 - 2008: University of California, Davis (Davis, CA)
   - Bachelor of Arts and Science: Music (Percussion) and General Mathematics
 
 ## PRESENTATIONS / WORKSHOPS
@@ -26,28 +27,7 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
 - November 19, 2016: Fifth Internatitonal Pure Data Convention
   - Presentation of "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone" with Alexandre Torres Porres and Matt Barber
 
-## EXHIBITIONS
-- 2020: Small File Media Festival (Vancouver, BC)
-    - a festival dedicated to small files featuring my video bombaybeach
-- 2019: Music Makers Art Exhibition at Hacker Lab (Sacramento, CA)
-  - Featuring art made by musicians featuring my computer-generated visual art
-- 2019: The Brickhouse Art Gallery (Sacramento, CA)
-  - Month-long curation of art by Derek Kwan, Tavarus Blackmon, and Boris Allenou
-
-## FELLOWSHIPS / RESIDENCIES
-- 2022: Virginia Center for the Creative Arts (Amherst, VA)
-    - composer residency
-- 2020: Art-a-Hack Dancedemic (New York, NY / remote)
-    - remote hackathon in conjunction with Battery Dance Festival
-- 2020: Bombay Radical Artificial Humanist Media Arts Nexus (Bombay Beach, CA)
-- 2010:  Bang on a Can Summer Music Institute  (North Adams, MA)
-  - Performance Fellow
-- 2008: soundSCAPE Composer and Performance Exchange (Pavia, Italy)
-  - Performance Fellow
-- 2007: International Marimba Festival (Salzburg, Austria)
-  - Performance Fellow
-
-## WRITING
+## PUBLICATIONS
 - 2021: "Almost 20 years of Cyclone: past, present, and future" - with Alexandre Torres Porres and Matt Barber (Revista Vortex 9 (2))
 - 2021: "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map" - with Anne Sophie Andersen (NIME)
 - 2020: "Karaoke of Dreams: A multi-modal neural-network generated music experience" - with Sofy Yuditskaya and Sophia Sun (CSMC + MuMe)
@@ -58,8 +38,8 @@ www.derekxkwan.com / derek.x.kwan@gmail.com
   - Temporary Lecturer
   - Teaching the undergraduate course Music 107A: "Introduction to Electronic Music I" featuring a general overview of electronic music history (musique conrcète, elektronische musik, soundscape composition, etc.) and studio basics (sound editors, DAWs, microphones, mixers, speakers, etc.) with a focus on fixed-media composition
 
-## PROFESSIONAL EXPERIENCE
-- April 2020 - current: Art Music Lit Space ( https://art-music-lit.space )
+## OTHER PROFESSIONAL EXPERIENCE
+- April 2020 - February 2021: Art Music Lit Space ( https://art-music-lit.space )
   - music/digital art curator for the virtual exhibition space
   - write content (statements on curated art, exhibition statements, etc.) for the exhibition website
   - help organize the virtual receptions and other events
@@ -83,27 +63,33 @@ Full-stack web application development (PHP, AngularJS, jQuery, etc.) for class-
   - Freelance
   - Taught private lessons in percussion to students ranging from high school students to adults
 
-## SELECTED PERFORMANCES
-- October 7, 2020: NODE20 Second Nature
-    - Caider livestream
-- July 18, 2020: Network Music Festival
-    - Caider (music livecoding with visualist Cai Rhuturaje) livestreaming at Toplap Berlin VR Algorave Mozilla Hubs venue
-- May 16-20 2016: Fifth International Pure Data Convention (PdCon16) (New York, NY)
-  - Derek Kwan - shoebox memories (Pd version), Hans Tammen - Dark Circuits Pd Orchestra
-- June 13, 2016: New York City Electroacoustic Music Festival (New York, NY)
-  - Derek Kwan - airportmusic
-- February 25, 2016: UC Davis Shinkoskey Noon Concert (Davis, CA)
-  - Solo percussion/electronics recital featuring works by Derek Kwan, Jason Eckardt, Martin Matalon, and Karlheinz Stockhausen
-- June 26, 2015: New York City Electroacoustic Music Festival (New York, NY)
-  - Derek Kwan - shoebox memories (2014/revised 2015) for kalimba and SuperCollider
-  - Nat Grant - With the Inside Where the Outside Should Be for vibraphone with digital integration
-- June 5, 2014: New York City Electroacoustic Music Festival (New York, NY)
-  - Ethan Greene - Lissajous for vibraphone and Max/MSP
-- April 5, 2013: New York City Electroacoustic Music Festival (New York, NY)
-  - Mei Fang Lin - Flux for marimba and electronic sound
-- June 19, 2011: Bang on a Can Marathon (New York, NY)
-  - Anthony Gatto - Portrait of Eva Hesse for percussion ensemble
-- October 31, 2010: Tibetan Singing Bowl Ensemble, Metropolitan Museum of Art (New York, NY)
-  - Raphael Mostel - Music for the October Moon
-- April 2, 2009: New York City Electroacoustic Music Festival (New York, NY)
-  - Courtney Brown - losing love in magnetic time for marimba and vibraphone (with Adam Forman, vibraphone)
+## EXHIBITIONS
+- 2020: Small File Media Festival (Vancouver, BC)
+    - a festival dedicated to small files featuring my video bombaybeach
+- 2019: Music Makers Art Exhibition at Hacker Lab (Sacramento, CA)
+  - Featuring art made by musicians featuring my computer-generated visual art
+- 2019: The Brickhouse Art Gallery (Sacramento, CA)
+  - Month-long curation of art by Derek Kwan, Tavarus Blackmon, and Boris Allenou
+
+## FELLOWSHIPS / RESIDENCIES
+- 2022: Virginia Center for the Creative Arts (Amherst, VA)
+    - composer residency
+- 2020: Art-a-Hack Dancedemic (New York, NY / remote)
+    - remote hackathon in conjunction with Battery Dance Festival
+- 2020: Bombay Radical Artificial Humanist Media Arts Nexus (Bombay Beach, CA)
+- 2010:  Bang on a Can Summer Music Institute  (North Adams, MA)
+  - Performance Fellow
+- 2008: soundSCAPE Composer and Performance Exchange (Pavia, Italy)
+  - Performance Fellow
+- 2007: International Marimba Festival (Salzburg, Austria)
+  - Performance Fellow
+
+## HONORS
+- 2008: Phi Beta Kappa (University of California, Davis)
+
+## TECHNICAL PROFICIENCIES
+**General Software Development:** Proficient in Python (familiar with Numpy, Scikit-learn, OpenCV, Matplotlib, NetworkX); experience in C, Java. **Web Technologies:** HTML, CSS, JavaScript, Node.js/Express, Electron, ClojureScript, React, PHP. **Digital Audio Workstations:** Logic, Ableton Live, Ardour. **Interactive Media Programming Languages:** Pure Data (including external development in C), SuperCollider, Max/MSP, Processing, p5.js, Three.js, Tone.js, TidalCycles. **Basic 3D Modeling:** Blender. **Basic Physical Computing:** Arduino, Raspberry Pi. **Audio Engineering:** Studio and Live Recording, Live Sound Engineering. **Music Engraving Software:** LilyPond. **Other:** Git, Linux, LaTeX.
+
+
+
+
