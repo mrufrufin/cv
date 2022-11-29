@@ -76,8 +76,6 @@ computers and music
 `2020` __Project Participant and Contributor, Art-a-Hack Dancedemic__, New York, NY / online
 - remote hackathon in conjunction with Battery Dance Festival
 
-`2020` __Resident, Bombay Radical Artificial Humanist Media Arts Nexus__, Bombay Beach, CA
-
 `2010` __Performance Fellow, Bang on a Can Summer Music Institute__, North Adams, MA
 
 `2008` __Performance Fellow, soundSCAPE Composer and Performance Exchange__, Pavia, Italy
