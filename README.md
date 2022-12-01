@@ -16,11 +16,11 @@ computers and music
 - (GPA: 4.00/4.00)
 - Specialization: Interactive Intelligence
 
-`2011-2015` __DMA, State University of New York, Stony Brook__, Music (Percussion)
+`2011-2015` __DMA, State University of New York, Stony Brook__, Music Performance (Percussion)
 - (GPA: 3.95/4.00)
 - Advisor: Eduardo Leandro
 
-`2008-2010` __MA, Queens College, City University of New York__, Music (Percussion)
+`2008-2010` __MA, Queens College, City University of New York__, Music Performance (Classical Percussion)
 - (GPA: 3.975/4.00)
 
 `2004-2008` __BASc, University of California, Davis__, Music (Percussion) and General Mathematics
@@ -38,23 +38,23 @@ computers and music
 `2016` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone". Proceedings of the Fifth International Pure Data Convention (PdCon), 2016. [https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf](https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf)
 
 ## Presentations and Workshops
-`2021` __Karaoke of Dreams: A multi-modal neural-network generated music experience__
+`2021` __Karaoke of Dreams: A multi-modal neural-network generated music experience__, online
  - recorded virtual paper presentation with Sofy Yuditskaya and Sophia Sun for McGill Music Graduate Symposium (online)
 
-`2020` __TidalCycles Live Coding Workshop__
-- workshop at Mars College on the TidalCycles Live Coding Environment (Bombay Beach, CA)
+`2020` __TidalCycles Live Coding Workshop__, Bombay Beach, CA
+- workshop at Mars College on the TidalCycles Live Coding Environment
 
-`2018` __socketMusic: wireless__
-- presentation and performance of new revision of my composition for improvised percussion, electronic sound, and mobile devices at Bates Digital Music Symposium (Lewiston, ME)
+`2018` __socketMusic: wireless__, Lewiston, ME
+- presentation and performance of new revision of my composition for improvised percussion, electronic sound, and mobile devices at Bates Digital Music Symposium
 
 
 ## Teaching
 `2017` __Temporary Lecturer__, Music 107A: Introduction to Electronic Music I, UC Davis
-- overview of electronic music history and recording studio basics with a focus on fixed-media composition
+- overview of electronic music history, recording studio basics, and fixed-media composition
 
 ## Other Professional Experience
 `2020-2021` __Music and Digital Art Curator, Art Music Lit Space__, online
-- write content (statements on curated art, exhibition statements) for the virtual exhibition space
+- write content (curation and exhibition statements) for the virtual exhibition space
 
 `2013-2015` __Lab Assistant and Programmer, SBU Teaching Learning Lab__, Stony Brook NY
 - Working under Paul St. Denis with SBU faculty on interactive digital media projects investigating novel methods of human-computer interaction and full-stack web application development for class-oriented learning tools and data visualization
@@ -63,10 +63,10 @@ computers and music
 - Archival activities for the music library’s analog and digital media
 
 `2012-2013` __Graduate Assistant, SBU Computer Music Studio__, Stony Brook, NY
-- Running live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio (supervisors: Margaret Schedel, Daniel Weymouth)
+- Live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio (supervisors: Margaret Schedel, Daniel Weymouth)
 
 `2011-2012` __Graduate Assistant, SBU Contemporary Chamber Players__, Stony Brook, NY
-- Assist with the organization and planning of concerts and rehearsals (supervisor: Eduardo Leandro)
+- Organization and planning of concerts and rehearsals (supervisor: Eduardo Leandro)
 
 `2010-2011` __Private Instructor in Percussion (freelance)__, Flushing, NY
 - Taught private lessons in percussion to students ranging from high school students to adults
@@ -110,14 +110,11 @@ computers and music
 - Software Development Process (in progress)
 
 ## Projects
-`2022` - __Rhythm OLMITS__
-- an intelligent tutoring system for teaching musical rhythm performance developed for Georgia Tech's EdTech class
-- (paper: [https://smartech.gatech.edu/handle/1853/67085](https://smartech.gatech.edu/handle/1853/67085), code: [https://github.com/derekxkwan/rhythm_olmits](https://github.com/derekxkwan/rhythm_olmits))
+`2022` __Rhythm OLMITS__
+- an intelligent tutoring system for teaching musical rhythm performance originally developed for Georgia Tech's EdTech class (paper: [https://smartech.gatech.edu/handle/1853/67085](https://smartech.gatech.edu/handle/1853/67085), code: [https://github.com/derekxkwan/rhythm_olmits](https://github.com/derekxkwan/rhythm_olmits))
+ 
 ## Skills
-- __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV)
-- __C__
-- __Java__
-- __JavaScript__, (Node.js, Electron, React)
+- General programming - __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV), __C__, __Java__, __JavaScript__, (Node.js, Electron, React)
 - Audio programming - __Pure Data__, __SuperCollider__, __TidalCycles__, __various DAWs__, (Logic, Ardour)
 - Other creative computing - __Processing__, basic physical computing with __Arduino__
 - **Git**, daily use of **Linux**
