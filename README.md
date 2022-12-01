@@ -13,27 +13,29 @@ computers and music
 ## Education
 
 `2021-present` __MSc, Georgia Institute of Technology__, Computer Science
+- (GPA: 4.00/4.00)
 - Specialization: Interactive Intelligence
 
-`2011-2015` __DMA, State University of New York, Stony Brook__, Music (percussion)
+`2011-2015` __DMA, State University of New York, Stony Brook__, Music (Percussion)
+- (GPA: 3.95/4.00)
 - Advisor: Eduardo Leandro
 
 `2008-2010` __MA, Queens College, City University of New York__, Music (Percussion)
+- (GPA: 3.975/4.00)
 
 `2004-2008` __BASc, University of California, Davis__, Music (Percussion) and General Mathematics
+- (GPA: 3.708/4.00)
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Almost 20 years of Cyclone: past, present, and future". Revista Vortex 9 (2), 2021. [https://doi.org/10.33871/23179937.2021.9.2.15](https://doi.org/10.33871/23179937.2021.9.2.15)
 
-`2021` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber "Almost 20 years of Cyclone: past, present, and future". Revista Vortex 9 (2), 2021. [http://200.201.12.34/index.php/vortex/article/view/4553](http://200.201.12.34/index.php/vortex/article/view/4553)
-
-`2021` Anne Sophie Andersen, __Derek Kwan__. "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map_". New Interfaces for Musical Expression (NIME), 2021. [https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131](https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131)
+`2021` Anne Sophie Andersen, __Derek Kwan__. "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map". New Interfaces for Musical Expression (NIME), 2021. [https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131](https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131)
 
 
 `2020` Sofy Yuditskaya, Sophia Sun, __Derek Kwan__."Karaoke of Dreams: A multi-modal neural-network generated music experience". Joint Conference on AI Music Creativity (CSMC + MuMe), 2020. [https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf)
 
-`2016` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone". Fifth International Pure Data Convention (PdCon), 2016. [https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf](https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf)
+`2016` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone". Proceedings of the Fifth International Pure Data Convention (PdCon), 2016. [https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf](https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf)
 
 ## Presentations and Workshops
 `2021` __Karaoke of Dreams: A multi-modal neural-network generated music experience__
@@ -47,7 +49,7 @@ computers and music
 
 
 ## Teaching
-`2017` __Temporary Lecturer__, Music 107A Introduction to Electronic Music I, UC Davis
+`2017` __Temporary Lecturer__, Music 107A: Introduction to Electronic Music I, UC Davis
 - overview of electronic music history and recording studio basics with a focus on fixed-media composition
 
 ## Other Professional Experience
@@ -55,18 +57,18 @@ computers and music
 - write content (statements on curated art, exhibition statements) for the virtual exhibition space
 
 `2013-2015` __Lab Assistant and Programmer, SBU Teaching Learning Lab__, Stony Brook NY
-- Working with SBU faculty on interactive digital media projects investigating novel methods of human-computer interaction and full-stack web application development for class-oriented learning tools and data visualization
+- Working under Paul St. Denis with SBU faculty on interactive digital media projects investigating novel methods of human-computer interaction and full-stack web application development for class-oriented learning tools and data visualization
 
-`2013` __Audio/Video Colletions Manager, SBU Music Library__, Stony Brook, NY
+`2013` __Audio/Video Collections Manager, SBU Music Library__, Stony Brook, NY
 - Archival activities for the music library’s analog and digital media
 
 `2012-2013` __Graduate Assistant, SBU Computer Music Studio__, Stony Brook, NY
-- Running live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio
+- Running live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio (supervisors: Margaret Schedel, Daniel Weymouth)
 
 `2011-2012` __Graduate Assistant, SBU Contemporary Chamber Players__, Stony Brook, NY
-- Assist with the organization and planning of concerts and rehearsals 
+- Assist with the organization and planning of concerts and rehearsals (supervisor: Eduardo Leandro)
 
-`2010-2011` __Private Instructor in Percussion (freelance)__, (Flushing, NY)
+`2010-2011` __Private Instructor in Percussion (freelance)__, Flushing, NY
 - Taught private lessons in percussion to students ranging from high school students to adults
 
 
@@ -112,8 +114,8 @@ computers and music
 - __C__
 - __Java__
 - __JavaScript__, (Node.js, Electron, React)
-- Audio programming-__Pure Data__, __SuperCollider__, __TidalCycles__, __various DAWs__, (Logic, Ardour)
-- Other creative computing-__Processing__, basic physical computing with __Arduino__
+- Audio programming - __Pure Data__, __SuperCollider__, __TidalCycles__, __various DAWs__, (Logic, Ardour)
+- Other creative computing - __Processing__, basic physical computing with __Arduino__
 - **Git**, daily use of **Linux**
 
 <!-- ### Footer
