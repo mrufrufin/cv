@@ -109,6 +109,10 @@ computers and music
 - Computer Networks
 - Software Development Process (in progress)
 
+## Projects
+`2022` - __Rhythm OLMITS__
+- an intelligent tutoring system for teaching musical rhythm performance developed for Georgia Tech's EdTech class
+- (paper: [https://smartech.gatech.edu/handle/1853/67085](https://smartech.gatech.edu/handle/1853/67085), code: [https://github.com/derekxkwan/rhythm_olmits](https://github.com/derekxkwan/rhythm_olmits))
 ## Skills
 - __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV)
 - __C__
