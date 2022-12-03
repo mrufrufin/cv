@@ -63,10 +63,10 @@ computers and music
 - Archival activities for the music library’s analog and digital media
 
 `2012-2013` __Graduate Assistant, SBU Computer Music Studio__, Stony Brook, NY
-- Live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio (supervisors: Margaret Schedel, Daniel Weymouth)
+- Live sound reinforcement and technology management for music department concerts and setting up and running a new campus recording studio
 
 `2011-2012` __Graduate Assistant, SBU Contemporary Chamber Players__, Stony Brook, NY
-- Organization and planning of concerts and rehearsals (supervisor: Eduardo Leandro)
+- Organization and planning of concerts and rehearsals
 
 `2010-2011` __Private Instructor in Percussion (freelance)__, Flushing, NY
 - Taught private lessons in percussion to students ranging from high school students to adults
