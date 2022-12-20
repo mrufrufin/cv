@@ -26,23 +26,23 @@ computers and music
 `2004-2008` __BASc, University of California, Davis__, Music (Percussion) and General Mathematics
 - (GPA: 3.708/4.00)
 
-## Publications
+## Writing
 
 `2021` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Almost 20 years of Cyclone: past, present, and future". Revista Vortex 9 (2), 2021. [https://doi.org/10.33871/23179937.2021.9.2.15](https://doi.org/10.33871/23179937.2021.9.2.15)
 
-`2021` Anne Sophie Andersen, __Derek Kwan__. "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map". New Interfaces for Musical Expression (NIME), 2021. [https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131](https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131)
+`2021` Anne Sophie Andersen, __Derek Kwan__. "Grisey’s 'Talea': Musical Representation As An Interactive 3D Map". New Interfaces for Musical Expression (NIME), 2021. [https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131](https://nime.pubpub.org/pub/oiwz8bb7/release/1?readingCollection=71dd0131) (app: [https://derekxkwan.github.io/talea-vis/](https://derekxkwan.github.io/talea-vis/))
 
 
-`2020` Sofy Yuditskaya, Sophia Sun, __Derek Kwan__."Karaoke of Dreams: A multi-modal neural-network generated music experience". Joint Conference on AI Music Creativity (CSMC + MuMe), 2020. [https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf)
+`2020` Sofy Yuditskaya, Sophia Sun, __Derek Kwan__."Karaoke of Dreams: A multi-modal neural-network generated music experience". Joint Conference on AI Music Creativity (CSMC + MuMe), 2020. [https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf](https://boblsturm.github.io/aimusic2020/papers/CSMC__MuMe_2020_paper_5.pdf) (video: [https://www.youtube.com/watch?v=YVYUmCHzzH8](https://www.youtube.com/watch?v=YVYUmCHzzH8)) 
 
-`2016` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone". Proceedings of the Fifth International Pure Data Convention (PdCon), 2016. [https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf](https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf)
+`2016` Alexandre Torres Porres, __Derek Kwan__, Matthew Barber. "Cloning Max/MSP Objects: a Proposal for the Upgrade of Cyclone". Fifth International Pure Data Convention (PdCon), 2016. [https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf](https://derekxkwan.com/res/pdcon16_cyclone-paper.pdf)
 
 ## Presentations and Workshops
 `2021` __Karaoke of Dreams: A multi-modal neural-network generated music experience__, online
- - recorded virtual paper presentation with Sofy Yuditskaya and Sophia Sun for McGill Music Graduate Symposium (online)
+ - recorded virtual paper presentation with Sofy Yuditskaya and Sophia Sun for McGill Music Graduate Symposium
 
 `2020` __TidalCycles Live Coding Workshop__, Bombay Beach, CA
-- workshop at Mars College on the TidalCycles Live Coding Environment
+- workshop at Mars College on the TidalCycles electronic music live coding environment
 
 `2018` __socketMusic: wireless__, Lewiston, ME
 - presentation and performance of new revision of my composition for improvised percussion, electronic sound, and mobile devices at Bates Digital Music Symposium
@@ -69,14 +69,12 @@ computers and music
 - Organization and planning of concerts and rehearsals
 
 `2010-2011` __Private Instructor in Percussion (freelance)__, Flushing, NY
-- Taught private lessons in percussion to students ranging from high school students to adults
-
 
 ## Fellowships and Residencies
 `2022` __Composer Residency, Virginia Center for the Creative Arts__, Amherst, VA
 
 `2020` __Project Participant and Contributor, Art-a-Hack Dancedemic__, New York, NY / online
-- remote hackathon in conjunction with Battery Dance Festival
+- remote hackathon in conjunction with Battery Dance Festival ([https://artahack.io/projects/hieroglyph/](https://artahack.io/projects/hieroglyph/))
 
 `2010` __Performance Fellow, Bang on a Can Summer Music Institute__, North Adams, MA
 
@@ -99,7 +97,8 @@ computers and music
 
 ## Relevant Graduate Coursework
 ### Georgia Tech
-- Machine Learning (in progress)
+- Deep Learning (in progress)
+- Machine Learning
 - Artificial Intelligence
 - Knowledge-Based AI
 - Computer Vision
@@ -107,14 +106,14 @@ computers and music
 - Human-Computer Interaction
 - Educational Technology
 - Computer Networks
-- Software Development Process (in progress)
+- Software Development Process
 
 ## Projects
 `2022` __Rhythm OLMITS__
 - an intelligent tutoring system for teaching musical rhythm performance originally developed for Georgia Tech's EdTech class (paper: [https://smartech.gatech.edu/handle/1853/67085](https://smartech.gatech.edu/handle/1853/67085), code: [https://github.com/derekxkwan/rhythm_olmits](https://github.com/derekxkwan/rhythm_olmits))
  
 ## Skills
-- General programming - __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV), __C__, __Java__, __JavaScript__, (Node.js, Electron, React)
+- General programming - __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV), __C__, __Java__, __JavaScript__, (Node.js, Electron, React), __ClojureScript__
 - Audio programming - __Pure Data__, __SuperCollider__, __TidalCycles__, __various DAWs__, (Logic, Ardour)
 - Other creative computing - __Processing__, basic physical computing with __Arduino__
 - **Git**, daily use of **Linux**
