@@ -3,7 +3,7 @@ layout: cv
 title: CV
 ---
 # Derek Kwan
-computers and music
+artificial intelligence and music
 
 <div id="webaddress">
 <a href="derek.x.kwan@gmail.com">derek.x.kwan@gmail.com</a> |
@@ -12,7 +12,9 @@ computers and music
 
 ## Education
 
-`2021-present` __MSc, Georgia Institute of Technology__, Computer Science
+`Sept. 2023 - ?` **PhD, Oregon State University**, Artificial Intelligence
+
+`2021-2023` __MSc, Georgia Institute of Technology__, Computer Science
 - (GPA: 4.00/4.00)
 - Specialization: Interactive Intelligence
 
@@ -97,7 +99,7 @@ computers and music
 
 ## Relevant Graduate Coursework
 ### Georgia Tech
-- Deep Learning (in progress)
+- Deep Learning
 - Machine Learning
 - Artificial Intelligence
 - Knowledge-Based AI
