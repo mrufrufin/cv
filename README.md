@@ -115,7 +115,7 @@ artificial intelligence and music
 - an intelligent tutoring system for teaching musical rhythm performance originally developed for Georgia Tech's EdTech class (paper: [https://smartech.gatech.edu/handle/1853/67085](https://smartech.gatech.edu/handle/1853/67085), code: [https://github.com/derekxkwan/rhythm_olmits](https://github.com/derekxkwan/rhythm_olmits))
  
 ## Skills
-- General programming - __Python__, (Scikit-learn, Numpy, Matplotlib, OpenCV), __C__, __Java__, __JavaScript__, (Node.js, Electron, React), __ClojureScript__
+- General programming - __Python__, (Scikit-learn, Numpy, Matplotlib, PyTorch, OpenCV), __C__, __Java__, __JavaScript__, (Node.js, Electron, React), __ClojureScript__
 - Audio programming - __Pure Data__, __SuperCollider__, __TidalCycles__, __various DAWs__, (Logic, Ardour)
 - Other creative computing - __Processing__, basic physical computing with __Arduino__
 - **Git**, daily use of **Linux**
